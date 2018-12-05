@@ -1,0 +1,19 @@
+{
+    "authors" : [
+      "JJ Merelo"
+    ],
+    "build-depends" : [ ],
+    "depends" : [ ],
+    "description" : "Tests embadded code",
+    "license" : "GPL-3.0",
+    "name" : "Test::Pod::EmbeddedCode",
+    "perl" : "6.c",
+    "provides" : {
+	"Test::Pod::EmbeddedCode" : "lib/Test/Pod/EmbeddedCode.pm6"
+    },
+    "resources" : [ ],
+    "source-url" : "https://github.com/JJ/p6-test-pod-embeddedcode",
+    "tags" : ['Test','Documentation'],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
